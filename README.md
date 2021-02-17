@@ -1,1 +1,1 @@
-# Neural-network-written on Python ^_^
+# Neural-network-written on Python ^_^ 🐍
